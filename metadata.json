@@ -1,0 +1,8 @@
+{
+  "name": "PressIndex",
+  "description": "A curated editorial directory, live in-site reader, and topic search portal for 30 iconic blogs and independent web publications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
